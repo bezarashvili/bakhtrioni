@@ -10,6 +10,6 @@
 	</style>
 </head>
 <body>
-	<img src="bakhtrioni.png"/>
+	<img src="https://i.imgur.com/YuDspsb.png"/>
 </body>
 </html>
