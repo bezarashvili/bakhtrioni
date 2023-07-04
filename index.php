@@ -1,8 +1,15 @@
 <html>
 <head>
 	<title>Bakhtrioni</title>
+	<style>
+		body {
+			display: flexbox;
+			justify-content: center;
+			align-items: center;
+		}
+	</style>
 </head>
 <body>
-	<p>In under construction</p>
+	<img src="bakhtrioni.png"/>
 </body>
 </html>
