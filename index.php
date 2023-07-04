@@ -3,7 +3,7 @@
 	<title>Bakhtrioni</title>
 	<style>
 		body {
-			display: flexbox;
+			display: flex;
 			justify-content: center;
 			align-items: center;
 		}
